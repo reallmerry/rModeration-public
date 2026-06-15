@@ -41,3 +41,22 @@ The plugin is available for purchase.
 
 > Prices in foreign currencies are calculated based on the current exchange rate and may vary slightly at the time of purchase.
 > Prices have also been rounded for convenience.
+
+## Source Code & Support
+
+When purchasing the plugin, you receive more than just a compiled JAR file.
+
+Your purchase includes:
+
+* Access to a private GitHub repository
+* Full source code
+* Technical documentation
+* Configuration examples
+* Future updates and bug fixes
+* Direct communication regarding issues and feature requests
+
+The private repository serves as the central hub for development, documentation, issue tracking and project updates.
+
+If you encounter a bug or need assistance with setup and configuration, you can report it directly through the provided support channels.
+
+Access to the private repository is granted after purchase verification.
